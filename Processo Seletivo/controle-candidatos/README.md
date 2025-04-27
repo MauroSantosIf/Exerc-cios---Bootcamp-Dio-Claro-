@@ -1,18 +1,19 @@
-## Getting Started
+# 📌 Simulador de Processo Seletivo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Código Java simples que simula um processo seletivo com:
 
-## Folder Structure
+### 🔹 Funcionalidades:
+- Tenta contatar 5 candidatos (3 tentativas cada)
+- Analisa salários pretendidos (valores aleatórios entre R$1800-2200)
+- Seleciona candidatos com pretensão ≤ R$2000
 
-The workspace contains two folders by default, where:
+### 🔹 Como usar:
+1. Compile: `javac Main.java`
+2. Execute: `java Main`
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### 🔹 Saída:
+- Mostra resultados das ligações
+- Lista candidatos selecionados
+- Classifica por faixa salarial
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+*Exercício do bootcamp Java da DIO* 🎓
