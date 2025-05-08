@@ -31,7 +31,7 @@ Representar os papéis do iPhone através de:
 
 ## 📊 Diagrama UML
 
-<img src="lib\uml.png" width="400">
+<img src="lib\UML.png" width="1200">
 
 ### Principais Componentes
 | **Pacote**           | **Interface**           | **Responsabilidade**                     |

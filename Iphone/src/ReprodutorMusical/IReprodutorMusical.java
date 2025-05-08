@@ -1,5 +1,9 @@
 package ReprodutorMusical;
-// Aqui será definido o contrato para a interface IReprodutorMusical
-public interface IReprodutorMusical {
-   
+   /*
+    * Contrato para um reprodutor musical básico.
+   */
+   public interface IReprodutorMusical {
+   void tocar();
+   void pausar();
+   void selecionarMusica(String musica) throws IllegalArgumentException;
 }
