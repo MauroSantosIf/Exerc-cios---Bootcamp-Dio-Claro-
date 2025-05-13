@@ -44,16 +44,6 @@ Representar os papéis do iPhone através de:
 | `aparelhotelefonico`  | `IAparelhoTelefonico`   | Controlar chamadas e correio de voz.      |
 | `navegadorinternet`   | `INavegadorInternet`    | Navegação web (abrir URL, nova aba, etc.).|
 
-## 🛠️ Como Executar 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/iphone-uml.git
-   ```
-2. Compile os arquivos Java:
-   ```bash
-   javac src/*.java src/**/*.java
-   ```
-
 
 ## 🤝 Como Contribuir
 1. Faça um fork do projeto.
