@@ -77,17 +77,6 @@ Uso de generics (List<String>).
 
 Métodos utilitários (Collections.sort(), stream()).
 
-# 📌 Como Usar
-Clone o repositório:
-
-bash
-git clone https://github.com/seu-usuario/exercicios-collections-java.git
-Navegue até a pasta do exercício (ex: /list).
-
-Abra o arquivo .java em sua IDE favorita (Eclipse, IntelliJ, VSCode).
-
-Implemente a solução e execute os testes (se houver).
-
 Java Collections Framework (Guia Baeldung)
 
 # 🤝 Contribuição
