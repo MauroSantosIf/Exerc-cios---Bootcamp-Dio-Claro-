@@ -7,10 +7,6 @@ Código Java simples que simula um processo seletivo com:
 - Analisa salários pretendidos (valores aleatórios entre R$1800-2200)
 - Seleciona candidatos com pretensão ≤ R$2000
 
-### 🔹 Como usar:
-1. Compile: `javac Main.java`
-2. Execute: `java Main`
-
 ### 🔹 Saída:
 - Mostra resultados das ligações
 - Lista candidatos selecionados
